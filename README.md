@@ -24,5 +24,3 @@
 **Design** <br/><br/><img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 <a href="https://github.com/mertgaygusuz"><img src="contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=mertgaygusuz.mertgaygusuz" />
