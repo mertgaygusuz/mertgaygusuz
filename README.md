@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Mert!
 
-I'm a **Full-Stack Developer** based in Istanbul, specializing in **React Native** mobile development with a strong **.NET back-end** foundation. I enjoy building end-to-end products — from cross-platform mobile interfaces to scalable back-end systems.
+I'm a **Full-Stack Developer** based in Istanbul, specializing in **React Native** mobile development with a strong **.NET back-end** foundation. I also build native iOS apps with **Swift & SwiftUI**. I enjoy building end-to-end products — from cross-platform mobile interfaces to scalable back-end systems.
 
 Currently driving the mobile transformation of an AI-powered workforce performance platform at **F4e**, and building side projects that combine mobile, back-end, and AI.
 
@@ -44,11 +44,11 @@ Currently driving the mobile transformation of an AI-powered workforce performan
 
 ## 🚀 Projects
 
+**[CineFlow](https://github.com/mertgaygusuz/CineFlow)** — Native iOS movie discovery app built with Swift/UIKit and MVVM architecture, powered by the TMDb API.
+
+**[NewsFlow](https://github.com/mertgaygusuz/NewsFlow)** — Full-stack news aggregation platform with .NET 10 Clean Architecture (CQRS/MediatR) backend and Next.js 15 frontend.
+
 **[NL2SQL Agent](https://github.com/mertgaygusuz/nl2sql-agent)** — AI assistant that converts natural language into MS SQL Server queries using LangChain & Google Gemini 2.5 Flash. Features dual-chain architecture and an in-memory schema cache (Turbo Mode) that cuts response time by 80%.
-
-**CineFlow** — Native iOS movie discovery app built with Swift/UIKit and MVVM architecture, powered by the TMDb API.
-
-**NewsFlow** — Full-stack news aggregation platform with .NET 10 Clean Architecture (CQRS/MediatR) backend and Next.js 15 frontend.
 
 <br/>
 
