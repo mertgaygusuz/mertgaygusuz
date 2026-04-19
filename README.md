@@ -55,5 +55,5 @@ Currently driving the mobile transformation of an AI-powered workforce performan
 
 ## 📊 GitHub Stats
 
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertgaygusuz&show_icons=true&theme=tokyonight&hide_border=true)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertgaygusuz&show_icons=true&theme=tokyonight&hide_border=true&v=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertgaygusuz&layout=compact&theme=tokyonight&hide_border=true&v=1)
