@@ -1,10 +1,10 @@
 # Hey there 👋, I'm Mert!
 
-I'm a **Full-Stack Developer** based in Istanbul, specializing in **React Native** mobile development with a strong **.NET back-end** foundation. I also build native iOS apps with **Swift & SwiftUI**.
+I'm a Full-Stack Developer based in Istanbul, building premium mobile products with React Native, SwiftUI, .NET, and AI technologies.
 
-I enjoy building end-to-end digital products — from premium mobile experiences to scalable back-end systems and AI-powered tools.
+I enjoy creating end-to-end digital experiences — from high-quality mobile interfaces to scalable back-end systems and AI-powered applications.
 
-Currently driving the mobile transformation of an AI-powered workforce performance platform at **F4e**, while also building independent iOS products focused on productivity, career tracking, and social experiences.
+Currently focused on independent iOS products, AI-driven tools, and modern social/productivity experiences.
 
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/mertgaygusuz/)
 
