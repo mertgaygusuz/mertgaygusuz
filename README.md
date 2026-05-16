@@ -83,4 +83,6 @@ Features dual-chain architecture and an in-memory schema cache (Turbo Mode) that
 
 # 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertgaygusuz&layout=compact&theme=tokyonight&hide_border=true&v=1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mertgaygusuz&theme=tokyonight&hide_border=true" width="70%" />
+</p>
