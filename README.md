@@ -12,19 +12,25 @@ Currently focused on independent iOS products, AI-driven tools, and modern socia
 
 # 📱 Published iOS Apps
 
-## HireFlow — Job Tracker
-
-Native iOS career tracking app built with **SwiftUI** that helps users manage job applications, interviews, STAR preparation, and career progress in one clean workflow.
-
-<img src="./hireflow-banner.png" alt="HireFlow Banner" width="100%" />
-
-<br/>
-
 ## FocusReceipt — Productivity Tracker
 
 Minimal productivity app that transforms daily activities into focus receipts, helping users better understand where their time goes with daily, weekly, and monthly insights.
 
+[View on the App Store](https://apps.apple.com/us/app/focusreceipt-productivity/id6769798902)
+
 <img src="./focusreceipt-banner.png" alt="FocusReceipt Banner" width="100%" />
+
+<br/>
+
+## Jotly — Personal Thought Journal
+
+Warm and minimal iOS app for capturing quick thoughts, notes, tasks, and reflections in a calm personal flow.
+
+Built as an independent iOS product focused on simple capture, thoughtful organization, and a premium mobile experience.
+
+[View on the App Store](JOTLY_APP_STORE_LINK_HERE)
+
+<img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
 
 <br/>
 
