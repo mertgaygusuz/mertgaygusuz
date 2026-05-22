@@ -22,18 +22,6 @@ Minimal productivity app that transforms daily activities into focus receipts, h
 
 <br/>
 
-## Jotly — Personal Thought Journal
-
-Warm and minimal iOS app for capturing quick thoughts, notes, tasks, and reflections in a calm personal flow.
-
-Built as an independent iOS product focused on simple capture, thoughtful organization, and a premium mobile experience.
-
-[View on the App Store](JOTLY_APP_STORE_LINK_HERE)
-
-<img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
-
-<br/>
-
 ## 🛠 Tech Stack
 
 ### Mobile
