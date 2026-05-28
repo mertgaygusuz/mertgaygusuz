@@ -97,8 +97,3 @@ Features dual-chain architecture and an in-memory schema cache (Turbo Mode) that
 
 <br/>
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mertgaygusuz&theme=tokyonight&hide_border=true" width="70%" />
-</p>
