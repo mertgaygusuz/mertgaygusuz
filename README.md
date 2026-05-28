@@ -28,7 +28,7 @@ Warm and minimal iOS app for capturing quick thoughts, notes, tasks, and reflect
 
 Built as an independent iOS product focused on simple capture, thoughtful organization, and a premium mobile experience.
 
-[View on the App Store](https://www.notion.so/JOTLY_APP_STORE_LINK_HERE)
+[View on the App Store](https://apps.apple.com/us/app/jotly-notlar-ve-g%C3%BCnl%C3%BCk/id6772137957?l=tr)
 
 <img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
 
