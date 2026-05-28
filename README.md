@@ -14,21 +14,33 @@ Currently focused on independent iOS products, AI-driven tools, and modern socia
 
 ## FocusReceipt — Productivity Tracker
 
-Minimal productivity app that transforms daily activities into focus receipts, helping users better understand where their time goes with daily, weekly, and monthly insights.
+Minimal productivity app that transforms daily activities into receipt-style focus summaries with daily, weekly, and monthly insights.
 
-[View on the App Store](https://apps.apple.com/us/app/focusreceipt-productivity/id6769798902)
+`SwiftUI` · `SwiftData` · `WidgetKit` · `CloudKit` · `StoreKit`
+
+<a href="https://apps.apple.com/us/app/focusreceipt-productivity/id6769798902">
+  <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+
+<br/>
+<br/>
 
 <img src="./focusreceipt-banner.png" alt="FocusReceipt Banner" width="100%" />
 
-<br/>
+---
 
 ## Jotly — Personal Thought Journal
 
-Warm and minimal iOS app for capturing quick thoughts, notes, tasks, and reflections in a calm personal flow.
+Warm and minimal iOS journal designed for capturing thoughts, notes, tasks, and reflections in a calm personal flow.
 
-Built as an independent iOS product focused on simple capture, thoughtful organization, and a premium mobile experience.
+`SwiftUI` · `SwiftData` · `MVVM` · `Local-first`
 
-[View on the App Store](https://apps.apple.com/us/app/jotly-notlar-ve-g%C3%BCnl%C3%BCk/id6772137957?l=tr)
+<a href="https://apps.apple.com/us/app/jotly-notlar-ve-g%C3%BCnl%C3%BCk/id6772137957?l=tr">
+  <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+
+<br/>
+<br/>
 
 <img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
 
