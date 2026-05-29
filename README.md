@@ -1,14 +1,4 @@
-# Hey there 👋, I'm Mert!
-
-I'm a Full-Stack Developer based in Istanbul, building premium mobile products with React Native, SwiftUI, .NET, and AI technologies.
-
-I enjoy creating end-to-end digital experiences — from high-quality mobile interfaces to scalable back-end systems and AI-powered applications.
-
-Currently focused on independent iOS products, AI-driven tools, and modern social/productivity experiences.
-
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/mertgaygusuz/)
-
-<br/>
+<img src="./github-hero.png" width="100%" />
 
 # 📱 Published iOS Apps
 
