@@ -1,4 +1,4 @@
-<img src="./hero-banner.png" width="100%" />
+<img src="./github-hero.png" width="100%" />
 
 # 📱 Published iOS Apps
 
@@ -35,7 +35,7 @@ Warm and minimal iOS journal designed for capturing thoughts, notes, tasks, and 
 <img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
 
 ## 🛠 Tech Stack
-<img src="./tech-banner.png" width="100%" />
+<img src="./techstack-banner.png" width="100%" />
 # 🚀 Other Projects
 
 ### [CineFlow](https://github.com/mertgaygusuz/CineFlow)
