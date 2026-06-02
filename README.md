@@ -1,4 +1,4 @@
-<img src="./github-hero.png" width="100%" />
+<img src="./hero-banner.png" width="100%" />
 
 # 📱 Published iOS Apps
 
