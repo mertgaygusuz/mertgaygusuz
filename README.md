@@ -34,23 +34,14 @@ Warm and minimal iOS journal designed for capturing thoughts, notes, tasks, and 
 
 <img src="./jotly-banner.png" alt="Jotly Banner" width="100%" />
 
-## 🛠 Tech Stack
+---
+
+# 🛠 Tech Stack
+
 <img src="./techstack-banner.png" width="100%" />
-# 🚀 Other Projects
-
-### [CineFlow](https://github.com/mertgaygusuz/CineFlow)
-
-Native iOS movie discovery app built with **Swift/UIKit** and **MVVM architecture**, powered by the TMDb API.
-
-### [NewsFlow](https://github.com/mertgaygusuz/NewsFlow)
-
-Full-stack news aggregation platform with **.NET 10 Clean Architecture (CQRS/MediatR)** backend and **Next.js 15** frontend.
-
-### [NL2SQL Agent](https://github.com/mertgaygusuz/nl2sql-agent)
-
-AI assistant that converts natural language into MS SQL Server queries using **LangChain** & **Google Gemini 2.5 Flash**.
-
-Features dual-chain architecture and an in-memory schema cache (Turbo Mode) that cuts response time by 80%.
 
 <br/>
 
+# 🚀 Other Projects
+
+<img src="./other-project-banner.png" width="100%" />
