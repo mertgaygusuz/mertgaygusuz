@@ -38,10 +38,10 @@ Warm and minimal iOS journal designed for capturing thoughts, notes, tasks, and 
 
 # 🛠 Tech Stack
 
-<img src="./techstack-banner.png" width="100%" />
+<img src="./tech-stack.png" width="100%" />
 
 <br/>
 
 # 🚀 Other Projects
 
-<img src="./other-project-banner.png" width="100%" />
+<img src="./other-project.png" width="100%" />
