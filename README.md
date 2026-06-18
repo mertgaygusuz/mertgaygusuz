@@ -1,5 +1,8 @@
 <p align="center">
   <img src="./github-hero.png" width="100%" style="display:block; margin:0; padding:0;" />
+  <a href="https://apps.apple.com/tr/app/blip-anonim-soru-sohbet/id6779620976">
+    <img src="./blip-banner.png" width="100%" style="display:block; margin:0; padding:0;" />
+  </a>
   <a href="https://apps.apple.com/us/app/focusreceipt-productivity/id6769798902">
     <img src="./focusreceipt-banner.png" width="100%" style="display:block; margin:0; padding:0;" />
   </a>
